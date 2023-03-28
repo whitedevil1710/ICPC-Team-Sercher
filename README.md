@@ -1,4 +1,8 @@
-# ICPC Team Details
+<div align="center">
+    <img src="https://github.com/whitedevil1710/ICPC-Team-Sercher/blob/main/icpc.png">
+</div>
+
+# ICPC Team Details 
 
 This project contains two Python scripts for retrieving and displaying details of ICPC teams. The first script, icpc.py, is a terminal-based script that prompts the user for a team ID and displays the corresponding team name and member names in the terminal. The second script, icpc\_gui.py, is a graphical user interface (GUI) version of the script that allows the user to input the team ID in a text box and displays the team details in a window.
 
