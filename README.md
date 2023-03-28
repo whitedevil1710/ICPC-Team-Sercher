@@ -27,7 +27,7 @@ python icpc.py
 
 The script will prompt you to enter a team ID. If the ID is found in the spreadsheet, the script will display the team member name and team name. If the ID is not found, the script will display an error message.
 
-### GUI
+### GUI BASED
 **icpc_gui.py** is a graphical user interface (GUI) version of the **icpc.py** script. The GUI was created using the Tkinter library.
 
 To run the GUI script, open a terminal window in the project directory and enter the command:
